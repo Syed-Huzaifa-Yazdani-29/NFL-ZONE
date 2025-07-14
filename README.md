@@ -1,16 +1,48 @@
-# nflzoneofficial
+# 🏈 NFL Zone - Flutter App
 
-A new Flutter project.
+**NFL Zone** is a mobile application built using **Flutter** that delivers real-time updates, stats, and news related to NFL Football. Whether you're a casual fan or a fantasy football pro, NFL Zone keeps you connected with the game like never before.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 📰 **Live Updates & Breaking News**  
+  Stay up-to-date with the latest NFL headlines and match alerts.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 📊 **Team & Player Stats**  
+  Access real-time statistics for teams and individual players.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 🗓️ **Match Schedules & Results**  
+  Check fixtures, live scores, and final results.
+
+- 📈 **Team Divisions**  
+  View division of teams.
+
+---
+
+## 🚀 Tech Stack
+
+- **Flutter** – Cross-platform mobile app development  
+- **Firebase** – Authentication, database, and cloud storage  
+- **REST APIs** – For real-time NFL data  
+- **Provider / Riverpod** – State management  
+- **Dart** – Programming language  
+- **Google Fonts, Cached Network Image, Video Player, Shared Preferences** – for enhanced UI/UX
+
+---
+
+
+## 🔧 Getting Started
+
+### Prerequisites:
+- Flutter SDK
+- Android Studio / VS Code
+- Firebase account (optional for full functionality)
+
+### Setup:
+
+```bash
+git clone https://github.com/Syed-Huzaifa-Yazdani-29/NFL-ZONE.git
+cd NFL-ZONE
+flutter pub get
+flutter run

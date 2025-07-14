@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "447709169472",
+    "project_id": "nfl-zone-official",
+    "storage_bucket": "nfl-zone-official.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447709169472:android:07aec0651a837748dc1ca5",
+        "android_client_info": {
+          "package_name": "com.example.nflzoneofficial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTuZxGyLtfrutr5dtgP13dn5iSMWKB6HU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
